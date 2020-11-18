@@ -1,8 +1,4 @@
-## 노마드 아티스트 성과발표회 용 
-
-## Contact
-
-- yohlee - [@l-yohai](https://github.com/l-yohai)  
+## 노마드 아티스트 성과발표회
 
 ## License
 
